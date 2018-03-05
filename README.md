@@ -2,8 +2,7 @@ Bu depo altında herhangi bir program,yazılım çalıştırma yükleme sırası
 
 ## Python3 opencv ROS hatası 
 
-  **Hata 
-  ImportError: /opt/ros/kinetic/lib/python2.7/dist-packages/cv2.so: undefined symbol: PyCObject_Type? )
+  **Hata _ImportError: /opt/ros/kinetic/lib/python2.7/dist-packages/cv2.so: undefined symbol: PyCObject_Type?_ **
 
 ## _Hatırlatma_ ##
 
